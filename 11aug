@@ -1,0 +1,4 @@
+svar = int(input("Jag tänker på ett nummer. Gissa!"))
+while svar != 4:
+    svar = input("Du gissade fel. Gissa på ett annat tal.")
+print("Du gissade rätt")
