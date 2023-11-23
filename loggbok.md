@@ -17,3 +17,15 @@ fredagen innan lovet. börjat med godot, vi har bestämt roller inom spelet. ock
 ---
 
 9 november. fortsatt med godot, klurar ut mer o mer hur man gör gubbar, movement, etc etc.
+
+---
+
+17 november. lär mig mer godot, bland annat. går lite långsamt med gruppen och spelet
+
+---
+
+20 november. fortsatte med uppgifter och lära mig godot. lärde mig listor, funktioner
+
+---
+
+23 november. fortsatte med uppgifter igen. vi bestämde oss för att inte vara en hel grupp för att göra spelet, så jag gör det på egen hand.
