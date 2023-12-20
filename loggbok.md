@@ -28,4 +28,10 @@ fredagen innan lovet. börjat med godot, vi har bestämt roller inom spelet. ock
 
 ---
 
+19 december. jobbat med klasser, och OOP
+
+---
+
+21 december. läst in mig på TKinter, och PyQt6. alltså hur man gör appar med gui, svårt
+
 23 november. fortsatte med uppgifter igen. vi bestämde oss för att inte vara en hel grupp för att göra spelet, så jag gör det på egen hand.
