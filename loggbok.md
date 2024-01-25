@@ -34,4 +34,18 @@ fredagen innan lovet. börjat med godot, vi har bestämt roller inom spelet. ock
 
 21 december. läst in mig på TKinter, och PyQt6. alltså hur man gör appar med gui, svårt
 
+---
+
 23 november. fortsatte med uppgifter igen. vi bestämde oss för att inte vara en hel grupp för att göra spelet, så jag gör det på egen hand.
+
+---
+
+jan 15. jag hoppade av spelet. jag har börjat allt lära mig pyglet för att skapa en liten gui app.
+
+---
+
+jan 18. har lyckats skapa ett fönster med text, ska kolla hur man lägger till knappar och andra funtioner
+
+---
+
+jan 22. har lärt mig lite mer generellt om pyglet.
