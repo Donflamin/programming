@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/donflamin/School/programming/programming/7101 project/environment/bin/python" "$0" "$@"
+'''exec' "/home/donflamin/documents/programming/7101 project/environment/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

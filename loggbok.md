@@ -46,8 +46,14 @@ jan 15. jag hoppade av spelet. jag har börjat allt lära mig pyglet för att sk
 
 jan 18. har lyckats skapa ett fönster med text, ska kolla hur man lägger till knappar och andra funtioner
 
+---
+
+jan 22. har lärt mig lite mer generellt om pyglet.
+
+---
+
 fram till mar 14. hoppade av pyglet, det var för svårt att jobba med det. efter att kolla vad som brukas användas (och vad som behövs för det jag gör) landade jag vid html och css med Eel. Jag kopplar python kod med hjälp av Eel, och så har jag Javascript också. Jag har kollat och jobbat på att få min search funktion att funka, sen är det bara att lägga in ren data, och sen får jag se vad jag lägger till.
 
 ---
 
-jan 22. har lärt mig lite mer generellt om pyglet.
+mar 25. jag behöver skapa en menu som jag kan använda flera gånger, så kommer använda mig av javascript. just nu har jag fixat ihop en klass, och det verkar funka, men det kan hända att jag använder mig av något annat senare om det inte funkar.
