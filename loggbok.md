@@ -57,3 +57,5 @@ fram till mar 14. hoppade av pyglet, det var för svårt att jobba med det. efte
 ---
 
 mar 25. jag behöver skapa en menu som jag kan använda flera gånger, så kommer använda mig av javascript. just nu har jag fixat ihop en klass, och det verkar funka, men det kan hända att jag använder mig av något annat senare om det inte funkar.
+
+apr 8. uppdaterade hur allt ser ut, nya fonter, SVG bakrunder bland annat.

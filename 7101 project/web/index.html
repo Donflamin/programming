@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <header></header>
     <h1>Choose Champion</h1>
     <input id="champInput" type="text" placeholder="Search..." />
     <button onclick="sayHello()">Enter</button>
@@ -18,9 +19,21 @@
       <section class="champRunes"></section>
     </div>
 
-    <div id="mordekaiser" class="champBox"></div>
+    <div id="mordekaiser" class="champBox">
+      <section class="champInfo">
+        <img src="images/mordekaiser.jpg" alt="Mordekaiser" />
+      </section>
 
-    <div id="sylas" class="champBox"></div>
+      <section class="champRunes"></section>
+    </div>
+
+    <div id="sylas" class="champBox">
+      <section class="champInfo">
+        <img src="images/sylas.jpg" alt="Sylas" />
+      </section>
+
+      <section class="champRunes"></section>
+    </div>
 
     <script src="/eel.js"></script>
     <script src="dist/script.js"></script>

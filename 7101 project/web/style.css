@@ -1,5 +1,29 @@
+@font-face {
+  font-family: "Spantaran";
+  src: url("fonts/spantaran.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "gamepause";
+  src: url("fonts/gamepause.otf") format("opentype");
+}
+
 body {
+  background-image: url("images/animatedShape.svg");
   font-family: Arial, sans-serif;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 15dvh;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.champBox {
+  background-image: url("images/Sprinkle.svg");
+}
+
+h1 {
+  font-family: "gamepause", sans-serif;
+  font-size: 3.5rem;
+  color: #faf9f6;
+  letter-spacing: 0.3rem;
 }
