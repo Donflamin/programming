@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Spantaran";
+  src: url("fonts/spantaran.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "gamepause";
+  src: url("fonts/gamepause.otf") format("opentype");
+}

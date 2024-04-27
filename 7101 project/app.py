@@ -8,3 +8,4 @@ eel.init("web")
 
 # Start the app
 eel.start("index.html", size=(300, 200))
+

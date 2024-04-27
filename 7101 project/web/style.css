@@ -1,29 +1,45 @@
-@font-face {
-  font-family: "Spantaran";
-  src: url("fonts/spantaran.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "gamepause";
-  src: url("fonts/gamepause.otf") format("opentype");
-}
+@import url("fonts.css");
+@import url("variables.css");
 
 body {
   background-image: url("images/animatedShape.svg");
   font-family: Arial, sans-serif;
   text-align: center;
   margin-top: 15dvh;
-  margin-left: 20%;
-  margin-right: 20%;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 .champBox {
   background-image: url("images/Sprinkle.svg");
+  display: flex;
+  width: 80dvw;
+  margin: 10% auto;
+}
+
+.champInfo {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  width: 100%
 }
 
 h1 {
   font-family: "gamepause", sans-serif;
   font-size: 3.5rem;
-  color: #faf9f6;
   letter-spacing: 0.3rem;
 }
+
+h2 {
+  flex: 1 1 auto;
+  font-size: 3.5rem;
+}
+
+.champImg {
+  flex: 0 0 auto;
+  min-width: 292px;
+  min-height: 172px;
+}
+
